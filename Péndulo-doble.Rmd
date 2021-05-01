@@ -22,6 +22,8 @@ output:
     fig_caption: True
     self_contained: True
     pandoc_args: [ "--output=index.html"]
+    includes:
+      in_header: "Icono/icono.html"
 toc-title: Contenido    
 bibliography: citations.bib
 csl: apa.csl 
@@ -49,7 +51,7 @@ El péndulo doble, en su forma más sencilla, es una masa en una barra rígida s
 
 <center>
 
-![El péndulo doble por Daniel Bernoulli, Johann Bernoulli y D'Alembert. Este sistema de dos masas jugó un rol central en el desarrollo histórico temprano de las ecuaciones dinámicas de movimiento](Img/péndulo-histórico.jpeg){height=300px}
+![El péndulo doble por Daniel Bernoulli, Johann Bernoulli y D'Alembert.](Img/péndulo-histórico.jpeg){height=300px}
 
 </center>
 
