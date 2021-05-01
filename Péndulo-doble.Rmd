@@ -20,7 +20,7 @@ output:
     math: katex
     number_sections: True
     fig_caption: True
-    self_contained: True
+    self_contained: False
     pandoc_args: [ "--output=index.html"]
     includes:
       in_header: "Icono/icono.html"
