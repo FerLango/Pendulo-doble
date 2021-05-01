@@ -21,6 +21,7 @@ output:
     number_sections: True
     fig_caption: True
     self_contained: True
+    pandoc_args: [ "--output=index.html"]
 toc-title: Contenido    
 bibliography: citations.bib
 csl: apa.csl 
