@@ -51,7 +51,7 @@ El péndulo doble, en su forma más sencilla, es una masa en una barra rígida s
 
 <center>
 
-![El péndulo doble por Daniel Bernoulli, Johann Bernoulli y D'Alembert.](Img/péndulo-histórico.jpeg){height=300px}
+![El péndulo doble por Daniel Bernoulli, Johann Bernoulli y D'Alembert.](Img/péndulo-histórico.jpg){height=300px}
 
 </center>
 
