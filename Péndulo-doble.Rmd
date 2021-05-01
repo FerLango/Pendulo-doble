@@ -401,7 +401,7 @@ $$
 Por lo tanto la ecuación de Euler-Lagrange para $\theta_1$ es:
 
 $$
-    (m_1 + m_2) l_1^2 \ddot{\theta}_1 + m_2 l_1 l_2 \ddot{\theta} \cos(\theta_1 - \theta_2) + m_2 l_1 l_2 \dot{\theta}_2^2 \sin(\theta_1 - \theta_2) + l_1 g (m_1+m_2) \sin(\theta_1) = 0
+    (m_1 + m_2) l_1^2 \ddot{\theta}_1 + m_2 l_1 l_2 \ddot{\theta}_2 \cos(\theta_1 - \theta_2) + m_2 l_1 l_2 \dot{\theta}_2^2 \sin(\theta_1 - \theta_2) + l_1 g (m_1+m_2) \sin(\theta_1) = 0
 $$
 
 Podemos hacer lo mismo para $\theta_2$ y la ecuación de Euler-Lagrange queda:
